@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "etro": "^0.9.1"
+  },
+  "name": "sellent.in",
+  "version": "0.0.1",
+  "author": "HS",
+  "license": "MIT"
+}
